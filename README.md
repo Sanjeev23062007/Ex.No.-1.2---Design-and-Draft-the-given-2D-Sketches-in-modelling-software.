@@ -33,7 +33,7 @@
  
  
  ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+![Screenshot 2025-04-10 110017](https://github.com/user-attachments/assets/51674a73-28d5-4baa-9554-83b013959871)
 
  ## OUTPUT
  
